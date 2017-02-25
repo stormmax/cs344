@@ -3,7 +3,7 @@ cs344
 
 Introduction to Parallel Programming class code
 
-# Building on OS X
+## Building on OS X
 
 These instructions are for OS X 10.9 "Mavericks".
 
@@ -23,8 +23,10 @@ make
 ```
 
 
-# Quiz Solutions
+## Quiz Solutions
 
 - [`Quiz/cube.cu`](Quiz/cube.cu): element-wise cube operation
 
+## Problem Sets Solutions 
 
+- [`Problem Sets/Problem Set 1/student_func.cu`](Problem Sets/Problem Set 1/student_func.cu): RGB2Grey
