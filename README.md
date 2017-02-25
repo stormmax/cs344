@@ -22,3 +22,9 @@ cmake ..
 make
 ```
 
+
+# Quiz Solutions
+
+- [`Quiz/cube.cu`](Quiz/cube.cu): element-wise cube operation
+
+
