@@ -30,3 +30,4 @@ make
 ## Problem Sets Solutions 
 
 - [`Problem Sets/Problem Set 1/student_func.cu`](Problem Sets/Problem Set 1/student_func.cu): RGB2Grey
+- [`Problem Sets/Problem Set 2/student_func.cu`](Problem Sets/Problem Set 2/student_func.cu): GPU Convolution
